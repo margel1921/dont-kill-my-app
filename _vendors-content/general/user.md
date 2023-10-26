@@ -1,4 +1,4 @@
----
+infinix zero---
 manufacturer:
     - general
 ---
